@@ -48,29 +48,7 @@ A modern, full-stack Point of Sale system built with Next.js and Rust, designed 
 - **JWT**: JSON Web Tokens for authentication
 - **bcrypt**: Password hashing and security
 
-## Project Structure
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
-
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/rickycontiga14-gmailcoms-projects/v0-pos-system-file-tree)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/Y4H9mqsCW7E)
-
-## Overview
-
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
-
-## Deployment
-
-Your project is live at:
-
-**[https://vercel.com/rickycontiga14-gmailcoms-projects/v0-pos-system-file-tree](https://vercel.com/rickycontiga14-gmailcoms-projects/v0-pos-system-file-tree)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.app/chat/projects/Y4H9mqsCW7E](https://v0.app/chat/projects/Y4H9mqsCW7E)**
 
 ## How It Works
 
